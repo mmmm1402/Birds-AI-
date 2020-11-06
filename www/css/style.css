@@ -1,0 +1,27 @@
+/**/
+#button1 {
+  background-color: orange;
+}
+
+
+body { font-size:150%}
+
+body {background-image: url("https://lh3.googleusercontent.com/n3Lv5O7Fbxzr7srk4172L0UD3ypbUI5GBaFB2MbWXwiFtTQ3sPOxhnxG5aMNJZMYuskBy0ZiYHnGrn-4p6Tze4hIfXbO7LvGxzdtBzB_nmlhlFSV7S71Mj99EgE4GekMSFWt4lxwkSzWsc3qagO996c1q70_Kt3tWWMLJQvmdNUwru5PnSERbWyoxrP25oTt9Vo5lNCK1lDbDETd4A4UM1acSL5YLHTJ1aOfeiAo3Mdh1FrkWVEaCmPXjQhJtyEYKGBQb1tcX_uRX63ZxTU8TMzZ8xvAQ4hLzJ-g6Umu6wWMKwGwLTWATaMam_sGA3P8gGMFjqM3N629lYt5W3cWphrnWe693KYqbblJIsc1VyJnMwGqEwOBvF0gkH01VX706s-0jE5Rj6EORh9l32h_4Mj2TZ-FtwLNyEaeWhJGgyAHSxs4fbKgWFi2Y4fkZFqlSnFECMzd7XhIwAZqVBQ3aqcGTIx0IZq-Ho8FxLcgRSQtx3bEG7LGjBzxLR2zXn1AU9kn_aJSjS9pR677P_Hd45Bb-xQIdUcETpfqpMCIER4dt7OwuhZDZcI4bfWAX9b4vWrlUXbc3AzOe_ZhJGG58ElNiOsZ02oZswBiXLZnbVhFi0WXLAX0MEe0nzYws68nop5WFZIcNK5dsqHDT4PwozMPgD_CSc6gM_UbTb8rWltopeVLFipOgQAIIeHg=w391-h695-no?authuser=0"); 
+background-size:120% auto;}
+
+body {text-align: center;
+}
+
+#text-button {
+  display: block;
+  cursor: pointer;
+  width: 160px;
+  text-align: center;
+  border: 1px solid #232323;
+  position: relative;
+  top: 50px;
+  left: 100px;
+  background-color: yellow;
+  
+}
+
